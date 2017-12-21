@@ -24,11 +24,6 @@ public class Equipo {
     this.jugadores.add(jugador);
     }
     
-    public List<String> getJugador(){
-    
-    return this.jugadores;
-    
-    }
 
     public String getNombre() {
         return nombre;
